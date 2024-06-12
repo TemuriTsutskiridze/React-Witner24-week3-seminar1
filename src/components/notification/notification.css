@@ -1,0 +1,13 @@
+.notification {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid red;
+  cursor: pointer;
+}
+
+.read {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: red;
+}
